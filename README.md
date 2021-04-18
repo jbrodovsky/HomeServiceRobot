@@ -1,5 +1,4 @@
 # HomeServiceRobot
----
 
 ## Project Description
 
